@@ -961,7 +961,7 @@
             "imagesPerRowSlider": 4,
             "spacing": "17",
             "fullWidth": true,
-            "paddingTop": "4",
+            "paddingTop": "3",
             "paddingBottom": 1,
             "bgColorRadio": true,
             "bgColor": "#fafafa",
