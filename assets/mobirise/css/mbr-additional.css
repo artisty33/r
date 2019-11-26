@@ -3410,7 +3410,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rIWSzlltPo {
-  padding-top: 60px;
+  padding-top: 90px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -3425,6 +3425,9 @@ section.lazy-placeholder:after {
 .cid-rIWSzlltPo body {
   height: 100%;
   min-height: 100%;
+}
+.cid-rIWSzlltPo .mbr-text {
+  text-align: center;
 }
 .cid-rIWPi9OyaJ {
   padding-top: 30px;
