@@ -948,6 +948,12 @@ section.lazy-placeholder:after {
 .cid-rwwWbfc3ww .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-rwwWbfc3ww P {
+  text-align: center;
+}
+.cid-rwwWbfc3ww H2 {
+  text-align: center;
+}
 .cid-rwwYZzfsUV {
   padding-top: 90px;
   padding-bottom: 90px;
