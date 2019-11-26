@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ROKA art",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -290,10 +290,12 @@
               "z-index": "auto"
             },
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#232323"
             },
             "H2": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#232323"
             }
           },
           "_name": "slider1",
