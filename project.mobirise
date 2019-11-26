@@ -309,7 +309,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1275.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -321,14 +321,14 @@
                 "title": "ROKA art",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Elija entre la gran selección de bloques prediseñados más recientes.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">PARA MAC</a>",
+                "text": "ORIGINAL PAINTINGS",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">GALLERY</a>",
                 "overlayOpacity": "0.3",
-                "textTitle": ""
+                "textTitle": "<b>ROKA ART</b>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1272x1920.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
